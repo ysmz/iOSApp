@@ -12,6 +12,7 @@
 		54C31FD22095EFD200E4C7D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54C31FD02095EFD200E4C7D5 /* Main.storyboard */; };
 		54C31FD42095EFD300E4C7D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54C31FD32095EFD300E4C7D5 /* Assets.xcassets */; };
 		54C31FD72095EFD300E4C7D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54C31FD52095EFD300E4C7D5 /* LaunchScreen.storyboard */; };
+		54C31FE12095FE5400E4C7D5 /* SecondNewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C31FE02095FE5400E4C7D5 /* SecondNewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		54C31FD32095EFD300E4C7D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54C31FD62095EFD300E4C7D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		54C31FD82095EFD300E4C7D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54C31FE02095FE5400E4C7D5 /* SecondNewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondNewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				54C31FCC2095EFD200E4C7D5 /* AppDelegate.swift */,
 				54C31FCE2095EFD200E4C7D5 /* ViewController.swift */,
+				54C31FE02095FE5400E4C7D5 /* SecondNewController.swift */,
 				54C31FD02095EFD200E4C7D5 /* Main.storyboard */,
 				54C31FD32095EFD300E4C7D5 /* Assets.xcassets */,
 				54C31FD52095EFD300E4C7D5 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				54C31FCF2095EFD200E4C7D5 /* ViewController.swift in Sources */,
+				54C31FE12095FE5400E4C7D5 /* SecondNewController.swift in Sources */,
 				54C31FCD2095EFD200E4C7D5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
